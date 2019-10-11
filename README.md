@@ -1,7 +1,6 @@
 # About Project
 
 A Flutter project to understand multi screen routing concept.
-A flutter meal app using flutter
 
 ## Preview
 #### <pre> 1.Explore recipies.                         2.Filters & Favorites.</pre>
